@@ -7,32 +7,6 @@
 🌍 **Based in Nabeul, Tunisia**
 
 ---
-
-## 📚 Education
-
-**Licence in Computer Technology** (In progress, expected June 2024)  
-Institut Supérieur des études Technologie de Nabeul
-
-**Baccalauréat in Experimental Sciences** (June 2021)  
-Lycée Ali Belhouène - Nabeul
-
-## 📜 Certifications
-
-**Introduction to React.js** (July 2022)  
-GO MY CODE
-
----
-
-## 💼 Professional Experience
-
-**2023, KINGS GROUP**  
-Developed a supply chain and delivery service management website.  
-Created an admin panel for managing registrations and generating PDF badges with QR codes.  
-Implemented data export functionalities in Excel format.  
-Technologies: Next.js, React, Nginx, PM2, OVH Hosting.
-
----
-
 ## 🛠️ Technical Skills
 
 **Programming & Web Development**: HTML, CSS, JavaScript, TypeScript, ES6, React.js, Java, Git/GitHub, Docker  
